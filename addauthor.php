@@ -2,14 +2,14 @@
 /**
  * @package addauthor
  * @author Paolo Valenti
- * @version 1.0 first release
+ * @version 1.1 changed deprecated functions
  */
 /*
 Plugin Name: addauthor
 Plugin URI: http://www.paolo.valenti.name/2009/02/04/add-author-plugin
 Description: This plugin allow you to show the description of the author of the post. Useful for multi authors blog. 
 Author: Paolo Valenti
-Version: 1.0
+Version: 1.1
 Author URI: http://www.paolo.valenti.name
 */
 /*  
@@ -33,13 +33,13 @@ Author URI: http://www.paolo.valenti.name
 
 function wolly_addaut() {
 echo '<div class="addaut">';
-echo get_avatar( get_the_author_email(), $size = '96' );
+echo get_avatar( get_the_author_meta('user_email'), $size = '96' );
 echo 'Post by ' ;
 the_author() ;
 echo ' on ';
 the_time('F jS, Y');
 echo '<br />';
-the_author_description() ;
+the_author_meta(description) ;
 echo '</div>';
 } 
 ?>
