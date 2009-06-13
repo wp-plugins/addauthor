@@ -39,7 +39,7 @@ the_author() ;
 echo ' on ';
 the_time('F jS, Y');
 echo '<br />';
-the_author_meta(description) ;
+the_author_meta('description') ;
 echo '</div>';
 } 
 ?>
