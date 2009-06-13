@@ -2,7 +2,7 @@
 Contributors: wolly
 Tags: author description,
 Donate link: no link
-Requires at least: 2.7
+Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: 1.1
 
@@ -11,6 +11,7 @@ This plugin allow you to show the description of the author of the post. Useful 
 == Description ==
 
 This plugin allow you to show where you want, inside the loop, a gravatar of the author of the post, the description of the author of the post, the nick of the author of the post and the date of the post.
+
 
 
 == Installation ==
@@ -22,6 +23,7 @@ This plugin allow you to show where you want, inside the loop, a gravatar of the
 5. register to gravatar.com yours authors
 6. fill in, under yours profile, the description of the authors
 
+For 2.8 use the 1.1 for 2.7 use only 1.0 cause the 1.1 has the new function.
 == Frequently Asked Questions ==
 Why use this plugin?
 To show a gravatar and a descritpion of the author(s) of your blog
