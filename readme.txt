@@ -3,8 +3,8 @@ Contributors: wolly
 Tags: author description,
 Donate link: no link
 Requires at least: 2.7
-Tested up to: 2.7
-Stable tag: 1.0
+Tested up to: 2.8
+Stable tag: 1.1
 
 This plugin allow you to show the description of the author of the post. Useful for multi authors blog.
 
