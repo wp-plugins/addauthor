@@ -1,0 +1,9 @@
+.addaut  { 
+	border: 2px solid #cccccc;
+	padding: 2px;
+	background: #ff7f50;
+	}
+.addaut .avatar { 
+	float:left;
+	padding: 5px;
+	}
