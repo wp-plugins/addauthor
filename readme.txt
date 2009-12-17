@@ -27,7 +27,8 @@ Why use this plugin?
 To show a gravatar and a descritpion of the author(s) of your blog
 
 == Screenshots ==
-1. This is how addauthor appear on mine blog
+
+1. This is how addauthor appear on mine blog.
 
 == Changelog ==
 1.2
