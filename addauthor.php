@@ -2,15 +2,15 @@
 /**
  * @package addauthor
  * @author Paolo Valenti
- * @version 1.2 changed CSS to have minimum height
+ * @version 1.3 changed readme file
  */
 /*
 Plugin Name: addauthor
-Plugin URI: http://wol.ly/2009/02/04/add-author-plugin
+Plugin URI: http://paolovalenti.info/2009/02/04/add-author-plugin
 Description: This plugin allow you to show the description of the author of the post. Useful for multi authors blog. 
 Author: Paolo Valenti
-Version: 1.2
-Author URI: http://wol.ly
+Version: 1.3
+Author URI: http://paolovalenti.info
 */
 /*  
 	Copyright 2009  Paolo Valenti aka Wolly  (email : wolly66@gmail.com)

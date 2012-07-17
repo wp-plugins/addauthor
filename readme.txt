@@ -3,8 +3,8 @@ Contributors: wolly
 Tags: author description,
 Donate link: no link
 Requires at least: 2.8
-Tested up to: 2.9
-Stable tag: 1.2
+Tested up to: 3.4.1
+Stable tag: 1.3
 
 This plugin allow you to show where you want avatar and bio of the post author.***PAY ATTENTION if you are upgrading, CSS is changed***
 == Description ==
@@ -31,6 +31,9 @@ To show a gravatar and a descritpion of the author(s) of your blog
 1. This is how addauthor appear on mine blog.
 
 == Changelog ==
+1.3 
+Changed readme file for compatibily with new WP versions
+
 1.2
 Changed CSS to have a minimun height to avoid bad display if you have short author description
 
