@@ -3,7 +3,7 @@ Contributors: wolly
 Tags: author description,
 Donate link: no link
 Requires at least: 2.8
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.3
 
 This plugin allow you to show where you want avatar and bio of the post author.***PAY ATTENTION if you are upgrading, CSS is changed***
